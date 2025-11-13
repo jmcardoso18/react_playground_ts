@@ -13,7 +13,6 @@ function Login() {
           titulo="Título da Postagem"
           texto="Texto da Postagem."
            />
-          
       ):(
         <div>
           <h1>Componente Login</h1>
